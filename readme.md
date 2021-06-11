@@ -19,3 +19,6 @@ Flyway will auto migrate tables.
 "enable": true|false  
 }  
 **responseHttpStatus** : 200/304  
+
+To Access functionality in swagger
+http://localhost:8090/swagger-ui/
